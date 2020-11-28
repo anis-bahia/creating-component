@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/creating-component/static/css/main.19f42454.chunk.css",
+    "main.js": "/creating-component/static/js/main.caa79212.chunk.js",
+    "main.js.map": "/creating-component/static/js/main.caa79212.chunk.js.map",
+    "runtime-main.js": "/creating-component/static/js/runtime-main.fed05189.js",
+    "runtime-main.js.map": "/creating-component/static/js/runtime-main.fed05189.js.map",
+    "static/js/2.a36d180d.chunk.js": "/creating-component/static/js/2.a36d180d.chunk.js",
+    "static/js/2.a36d180d.chunk.js.map": "/creating-component/static/js/2.a36d180d.chunk.js.map",
+    "index.html": "/creating-component/index.html",
+    "static/css/main.19f42454.chunk.css.map": "/creating-component/static/css/main.19f42454.chunk.css.map",
+    "static/js/2.a36d180d.chunk.js.LICENSE.txt": "/creating-component/static/js/2.a36d180d.chunk.js.LICENSE.txt",
+    "static/media/planet.1f254147.jpg": "/creating-component/static/media/planet.1f254147.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fed05189.js",
+    "static/js/2.a36d180d.chunk.js",
+    "static/css/main.19f42454.chunk.css",
+    "static/js/main.caa79212.chunk.js"
+  ]
+}
